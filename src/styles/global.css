@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&family=Nunito&family=Quicksand:wght@300&family=Ubuntu+Mono&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Ubuntu Mono";
+  color: #fff;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background: radial-gradient(
+    at top left,
+    rgba(146, 43, 225, 1) 0%,
+    rgba(43, 10, 110, 1) 100%
+  );
+  background-repeat: no-repeat;
+}
+
+p {
+  margin: 14px auto;
+  line-height: 2.2px;
+}
+
+.layout {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 35px auto;
+}
+
+nav .links {
+  display: inline-block;
+  text-align: right;
+}
+
+nav a {
+  display: inline-block;
+  margin-left: 20px;
+  font-weight: 600;
+  font-family: "Quicksand";
+  padding-bottom: 10px;
+  border-bottom: 2px solid transparent;
+}
+
+nav a:hover {
+  border-color: black;
+  transition: all 0.5s;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+  margin: 100px auto;
+  font-family: "Quicksand";
+}
+
+.footer-title {
+  font-family: "Quicksand";
+}
+
+.footer-title:hover {
+  color: black;
+  cursor: pointer;
+  transition: all 0.2s;
+}

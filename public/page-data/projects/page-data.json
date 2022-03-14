@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-projects-index-js",
+    "path": "/projects/",
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"html":"<h3>Memories MERN App</h3>\n<p>Made using Node, React,Express, MongoDB, Redux and RestAPI.</p>","frontmatter":{"title":""},"id":"308e52c5-365a-5cfe-b52c-f2bd8ed8290f"}]}},"pageContext":{}},
+    "staticQueryHashes": ["3230599319"]}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_app=self.webpackChunkportfolio_app||[]).push([[789],{1884:function(e,t,a){a.r(t);var r=a(7294),l=a(1597);t.default=function(){var e=(0,l.K2)("3230599319").site.siteMetadata.title;return r.createElement("nav",null,r.createElement("h1",null,e),r.createElement("div",{className:"links"},r.createElement(l.rU,{to:"/"},"Home"),r.createElement(l.rU,{to:"/about"},"About"),r.createElement(l.rU,{to:"/projects"},"Projects")))}}}]);
+//# sourceMappingURL=component---src-pages-components-navbar-js-df92f1d8f044acd528ef.js.map
